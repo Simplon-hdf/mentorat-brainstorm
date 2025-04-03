@@ -18,7 +18,7 @@ Les principes fondamentaux du mentorat :
 - Partage de réseau
 - Accompagnement sur mesure
 - Engagement mutuel 
-- Partage de connaissance Mutuel
+- Partage mutuel de connaissances
 
 ## Mentor
 
