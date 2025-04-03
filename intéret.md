@@ -1,4 +1,4 @@
-# intérets
+# Intérêt
 
 - Fidéliser les anciens apprenants
 - Élargir le réseau de Simplon et de ses apprenants
@@ -13,5 +13,12 @@
 - Meilleure visibilité et ramener à Simplon
 - Attirer plus d’adhérents
 - Fidéliser les anciens apprenants
+- développement des compétences des apprenants
 
+# attirer des mentors
 
+- Plus de visibilité pour les mentors
+- Possibilité de recruter des apprenants prometteurs
+- Se faire connaître par l'équipe Simplon
+- Utiliser le réseau Simplon
+- Organiser des événements
