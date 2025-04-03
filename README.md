@@ -18,4 +18,11 @@ Les principes fondamentaux du mentorat :
 
 ## Mentor
 
-## Apprenti
+- donner des conseils
+- donner une vision différente
+- partage
+- transmettre sont expérience
+- pédagogie
+- inspiré d'autres perssones
+
+## Apprentis
