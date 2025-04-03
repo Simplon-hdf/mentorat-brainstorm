@@ -15,7 +15,16 @@ Les principes fondamentaux du mentorat :
 - Un suivi des avancements
 - Apprendre et appronfondir des compétences
 - Partager son savoir-faires
+- Partage de réseau
+- Accompagnement sur mesure
+- Engagement mutuel 
+- Partage de connaissance Mutuel
 
 ## Mentor
 
 ## Apprenti
+
+- Prendre confiance en soi  
+- Partage  
+- Se fixer des objectifs  
+- Meilleure chance de réussite 
